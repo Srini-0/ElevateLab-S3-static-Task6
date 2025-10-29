@@ -93,7 +93,7 @@ By completing this project, I learned to:
       "Effect": "Allow",
       "Principal": "*",
       "Action": "s3:GetObject",
-      "Resource": "arn:aws:s3:::elevatelab-static-site-<yourname>/*"
+      "Resource": "arn:aws:s3:::elevatelab-static-site/*"
     }
   ]
 }
